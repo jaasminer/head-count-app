@@ -50,5 +50,5 @@ button {
 }
 
 div {
-    width: 400px;
+    max-width: 80%;
 }
