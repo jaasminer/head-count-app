@@ -8,7 +8,7 @@ body {
     text-align: center;
     margin: 10px auto;
     height: 100vh;
-    max-width: fit-content;
+    width: 100%;
 }
 
 h1, p {
