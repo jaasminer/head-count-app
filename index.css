@@ -48,8 +48,6 @@ button {
 
 .container {
     margin: auto;
-    height: 400px;
-    width: 400px;
     background-image: url("images/concerthall.jpg");
     background-size: cover;
 }
